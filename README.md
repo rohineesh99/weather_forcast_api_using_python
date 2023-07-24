@@ -10,6 +10,9 @@ Requirements:
 
 
 
+
+
+
 This project contains mainly 4 application (.py) files
 1)app.py: This application is useful to trigger and hit the api endpoints to perform required options
 2)requirments.txt: useful to install required python packages
